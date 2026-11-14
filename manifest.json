@@ -1,0 +1,15 @@
+{
+  "name": "单词随机选择题 · 听读音版",
+  "short_name": "单词测验",
+  "description": "整份词表按页随机出题，点喇叭听单词发音，可离线使用",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f6fb",
+  "theme_color": "#4f46e5",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" }
+  ]
+}
